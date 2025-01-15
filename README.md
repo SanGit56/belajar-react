@@ -1,2 +1,1 @@
-# belajar-react
-Belajar React framework JavaScript
+Belajar React _framework_ JavaScript
